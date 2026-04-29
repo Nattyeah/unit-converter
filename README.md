@@ -10,7 +10,7 @@ This project is a simple web application that allows users to convert between di
 ## How to Run the Application
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Nattyeah/unit-converter
    ```
 2. Navigate to the project directory:
    ```bash
